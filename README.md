@@ -7,7 +7,7 @@
 where abc can be any string
 
 ```http request
-http://127.0.0.1/abc?qi4l=id
+https://127.0.0.1/abc?qi4l=id
 ```
 
 # 👮Disclaimer
